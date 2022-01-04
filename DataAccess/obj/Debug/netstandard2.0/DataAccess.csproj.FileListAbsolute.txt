@@ -1,0 +1,12 @@
+D:\ASP.NET MVC\MusicaSystem\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\ASP.NET MVC\MusicaSystem\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\ASP.NET MVC\MusicaSystem\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\ASP.NET MVC\MusicaSystem\DataAccess\bin\Debug\netstandard2.0\BusinessObject.dll
+D:\ASP.NET MVC\MusicaSystem\DataAccess\bin\Debug\netstandard2.0\BusinessObject.pdb
+D:\ASP.NET MVC\MusicaSystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+D:\ASP.NET MVC\MusicaSystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET MVC\MusicaSystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\ASP.NET MVC\MusicaSystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\ASP.NET MVC\MusicaSystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC\MusicaSystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\ASP.NET MVC\MusicaSystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

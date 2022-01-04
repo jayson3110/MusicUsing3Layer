@@ -1,0 +1,10 @@
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\bin\Debug\netstandard2.0\BusinessObject.deps.json
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\bin\Debug\netstandard2.0\BusinessObject.dll
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\bin\Debug\netstandard2.0\BusinessObject.pdb
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\obj\Debug\netstandard2.0\BusinessObject.csproj.AssemblyReference.cache
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\obj\Debug\netstandard2.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\obj\Debug\netstandard2.0\BusinessObject.AssemblyInfoInputs.cache
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\obj\Debug\netstandard2.0\BusinessObject.AssemblyInfo.cs
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\obj\Debug\netstandard2.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\obj\Debug\netstandard2.0\BusinessObject.dll
+D:\ASP.NET MVC\MusicaSystem\BusinessObject\obj\Debug\netstandard2.0\BusinessObject.pdb

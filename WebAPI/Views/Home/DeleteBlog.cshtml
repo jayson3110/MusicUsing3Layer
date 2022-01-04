@@ -1,0 +1,64 @@
+﻿@model BusinessObject.AlbumBO
+
+@{
+    ViewBag.Title = "DeleteBlog";
+}
+
+<h2>DeleteBlog</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>AlbumBO</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.album_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.album_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.album_Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.album_Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.album_Year)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.album_Year)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.album_Producer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.album_Producer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.song_Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.song_Title)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

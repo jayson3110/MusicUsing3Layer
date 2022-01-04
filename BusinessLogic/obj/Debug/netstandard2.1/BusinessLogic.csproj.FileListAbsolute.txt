@@ -1,0 +1,15 @@
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.deps.json
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.dll
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.pdb
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\bin\Debug\netstandard2.1\BusinessObject.dll
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\bin\Debug\netstandard2.1\DataAccess.dll
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\bin\Debug\netstandard2.1\BusinessObject.pdb
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\bin\Debug\netstandard2.1\DataAccess.pdb
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.AssemblyReference.cache
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.AssemblyInfoInputs.cache
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.AssemblyInfo.cs
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.CopyComplete
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.dll
+D:\ASP.NET MVC\MusicaSystem\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.pdb
